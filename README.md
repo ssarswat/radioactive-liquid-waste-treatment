@@ -5,7 +5,9 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![Tests](https://github.com/ssarswat/radioactive-liquid-waste-treatment/actions/workflows/tests.yml/badge.svg)](https://github.com/ssarswat/radioactive-liquid-waste-treatment/actions/workflows/tests.yml)
 [![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](./app.py)
+### 🚀 Live Interactive Dashboard
 
+**[Open the Streamlit Dashboard](https://radioactive-liquid-waste-treatment-mjflecbcsawzzlvdnj2ld8.streamlit.app/)**
 > **Scope and safety:** This is a research-analysis and portfolio repository, not a plant operating manual. It does not replace facility procedures, radiological protection controls, regulatory requirements, engineering design review, or qualified professional judgement.
 
 ## Project at a glance
