@@ -1,0 +1,4 @@
+material,minimum_fluidization_velocity_m_s,minimum_fluidization_bed_volumes_s,hydrodynamic_conveying_velocity_m_s,hydrodynamic_conveying_bed_volumes_s,source
+4A,0.0277,0.438,0.0959,1.51,"M.Tech thesis, Table 4.1; average of five runs"
+13X-CFC,0.0316,0.5,0.1155,1.8248,"M.Tech thesis, Table 4.1; average of five runs"
+4A + 13X-CFC (3:1 vol.),0.03055,0.482,0.1138,1.798,"M.Tech thesis, Table 4.1; average of five runs"

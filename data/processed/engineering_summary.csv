@@ -1,0 +1,6 @@
+metric,value,unit,basis,note
+packed_bed_pressure_drop_per_100cm,0.08,kgf/cm2,Kozeny–Carman calculation; thesis p.62,pilot average observed 0.1 kgf/cm2
+lab_parallel_end,6500.0,bed volumes,Table 3.10; endpoint reached discharge criterion,effluent activity reached 3.7 Bq/mL criterion
+pilot_4A_exhaustion,10000.0,bed volumes,Chapter 3 pilot observation,13X-CFC effective to ~22000 BV
+pilot_throughput,10.0,m3/day,Pilot operation,20 BV/h; 50 L columns
+volume_reduction,2000.0,fold,Chapter 5 summary,order-of-magnitude statement in thesis
