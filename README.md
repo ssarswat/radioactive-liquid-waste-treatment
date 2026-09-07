@@ -3,7 +3,7 @@
 **Reproducible reconstruction and quantitative analysis of experimental work on ion-exchange treatment of low-level radioactive liquid waste (LLW).**
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
-[![Tests](https://img.shields.io/badge/tests-4%20passing-success)](./tests/test_metrics.py)
+[![Tests](https://github.com/ssarswat/radioactive-liquid-waste-treatment/actions/workflows/tests.yml/badge.svg)](https://github.com/ssarswat/radioactive-liquid-waste-treatment/actions/workflows/tests.yml)
 [![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](./app.py)
 
 > **Scope and safety:** This is a research-analysis and portfolio repository, not a plant operating manual. It does not replace facility procedures, radiological protection controls, regulatory requirements, engineering design review, or qualified professional judgement.
